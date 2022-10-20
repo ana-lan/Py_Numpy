@@ -34,7 +34,7 @@ This section contains the basic concepts of numpy and creating plots using them.
 9. Statistics with Numpy
 
 Reference:
-[Python Like You Mean It Documentation](https://www.pythonlikeyoumeanit.com/)
+[Python Like You Mean It Documentation](https://www.pythonlikeyoumeanit.com/)<br>
 [Python Documentation](https://numpy.org/doc/)
 
 The User Guide and Reference Doc are attached [here](Py_Numpy/Basics/)
